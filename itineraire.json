@@ -1,0 +1,226 @@
+{
+  "pays": "Namibie",
+  "drapeau": "🇳🇦",
+  "symbole": "🦌",
+  "titre": "Namibie: Épopée entre Désert et Faune Sauvage",
+  "budget_total": "3900€",
+  "duree": "6 jours",
+  "temps_vol": "environ 30h avec escales depuis Didier, Haïti",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Windhoek, Immersion Culturelle",
+      "legende": "Après un long voyage, découvrez la capitale namibienne, un mélange fascinant d'influences africaines et européennes. Profitez d'une balade relaxante pour vous imprégner de l'atmosphère unique de cette ville paisible. C'est l'occasion de se reposer et de se préparer aux aventures désertiques à venir.",
+      "lieu": "Windhoek",
+      "activites": [
+        "🛬 <strong>Arrivée et installation</strong>: Atterrissez à l'aéroport international Hosea Kutako, récupérez votre véhicule 4x4 et rejoignez votre hôtel à Windhoek pour vous rafraîchir et vous détendre après le vol.",
+        "🚶‍♀️ <strong>Découverte du centre-ville</strong>: Flânez dans les rues de Windhoek, admirez l'architecture coloniale allemande et visitez l'église Christuskirche, un emblème de la ville."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "La Namibie est un pays sûr, mais il est toujours recommandé de prendre les précautions habituelles, surtout en ville."
+        },
+        {
+          "symbole": "🚗",
+          "titre": "Conseil transport",
+          "texte": "Un véhicule 4x4 est fortement recommandé pour explorer la Namibie, surtout pour les routes de gravier et les parcs nationaux."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏜️",
+      "titre": "Route vers le Désert du Namib, Paysages Époustouflants",
+      "legende": "Laissez derrière vous l'agitation de la ville pour vous aventurer dans l'immensité du désert du Namib. La route elle-même est un spectacle, offrant des panoramas changeants et une sensation de liberté absolue. Préparez-vous à des paysages à couper le souffle et à une immersion totale dans la nature sauvage.",
+      "lieu": "Windhoek -> Sesriem (région de Sossusvlei)",
+      "activites": [
+        "🚗 <strong>Trajet vers Sesriem</strong>: Partez tôt le matin pour une route panoramique de 5 à 6 heures à travers des paysages semi-désertiques, ponctuée de montagnes et de plaines infinies. Faites des arrêts photo réguliers.",
+        "🌅 <strong>Coucher de soleil sur le désert</strong>: Arrivés à votre lodge près de Sesriem, installez-vous et profitez d'un magnifique coucher de soleil sur les dunes environnantes, prélude aux merveilles du lendemain."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "⛽",
+          "titre": "Essence",
+          "texte": "Faites le plein à Windhoek; les stations-service sont rares entre la capitale et Sesriem."
+        },
+        {
+          "symbole": "💧",
+          "titre": "Hydratation",
+          "texte": "Emportez toujours beaucoup d'eau, le climat désertique est très sec et la déshydratation rapide."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🔥",
+      "titre": "Les Dunes de Sossusvlei et Deadvlei, Merveilles du Namib",
+      "legende": "Réveillez-vous avant l'aube pour explorer les dunes emblématiques de Sossusvlei, des géants de sable rouge qui s'élèvent vers le ciel. Marchez sur les crêtes, admirez les contrastes saisissants et découvrez le mystérieux Deadvlei, un tableau figé dans le temps. Une expérience inoubliable au cœur du plus vieux désert du monde.",
+      "lieu": "Sossusvlei / Sesriem",
+      "activites": [
+        "🏜️ <strong>Ascension de Dune 45</strong>: Grimpez sur la célèbre Dune 45 au lever du soleil pour une vue panoramique inoubliable sur l'océan de sable rougeoyant, un spectacle de couleurs changeantes.",
+        "🚶‍♀️ <strong>Exploration de Deadvlei</strong>: Marchez jusqu'à Deadvlei, une cuvette d'argile blanche parsemée d'arbres morts vieux de 900 ans, offrant un contraste saisissant avec les dunes orange vif."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Chaussures",
+          "texte": "Portez des chaussures confortables et fermées pour marcher dans le sable chaud des dunes."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Partez très tôt le matin pour éviter la chaleur intense de la mi-journée et profiter des meilleures lumières pour les photos."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌊",
+      "titre": "Sesriem Canyon et Route vers Swakopmund, Contraste des Paysages",
+      "legende": "Après l'immensité des dunes, découvrez la fraîcheur inattendue du Sesriem Canyon avant de prendre la route vers la côte atlantique. Le passage du désert aride à la ville côtière de Swakopmund, avec son architecture coloniale, est une transition fascinante et un changement d'ambiance radical. Préparez-vous à des paysages variés.",
+      "lieu": "Sesriem -> Swakopmund",
+      "activites": [
+        "🏞️ <strong>Visite du Sesriem Canyon</strong>: Descendez dans le Sesriem Canyon, une gorge étroite creusée par la rivière Tsauchab, offrant un refuge frais et ombragé et une perspective géologique unique.",
+        "🛣️ <strong>Route vers Swakopmund</strong>: Empruntez la route spectaculaire qui traverse le désert du Namib jusqu'à Swakopmund, une ville côtière aux allures germaniques, en passant par le col de Gaub."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🧥",
+          "titre": "Vêtements",
+          "texte": "La côte peut être fraîche et brumeuse, même en été. Prévoyez des vêtements plus chauds pour Swakopmund."
+        },
+        {
+          "symbole": "🗺️",
+          "titre": "Navigation",
+          "texte": "Téléchargez des cartes hors ligne, la couverture réseau est limitée dans le désert."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🐬",
+      "titre": "Aventures à Swakopmund, Entre Désert et Océan",
+      "legende": "Swakopmund offre un mélange unique d'activités, de l'exploration du désert aux sports nautiques. Profitez de l'air marin et de l'ambiance décontractée de cette ville coloniale, porte d'entrée vers des paysages côtiers spectaculaires. C'est l'occasion de vivre des sensations fortes et de découvrir la faune marine.",
+      "lieu": "Swakopmund",
+      "activites": [
+        "🚤 <strong>Croisière à Walvis Bay</strong>: Participez à une croisière d'observation des dauphins, phoques et oiseaux marins dans la lagune de Walvis Bay, un écosystème riche et protégé.",
+        "🏜️ <strong>Excursion en quad dans les dunes</strong>: Vivez une montée d'adrénaline en explorant les dunes côtières en quad, une manière excitante et ludique de découvrir ce paysage unique."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "N'oubliez pas votre appareil photo pour immortaliser les paysages contrastés et la faune marine."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Gastronomie",
+          "texte": "Goûtez aux fruits de mer frais de Swakopmund, réputés pour leur qualité."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "✈️",
+      "titre": "Retour à Windhoek et Départ, Souvenirs Inoubliables",
+      "legende": "Profitez d'un dernier petit-déjeuner namibien avant de reprendre la route vers Windhoek. Ce trajet final est l'occasion de repenser aux paysages grandioses et aux expériences uniques vécues dans ce pays d'une beauté sauvage. Emportez avec vous des souvenirs impérissables de cette aventure namibienne.",
+      "lieu": "Swakopmund -> Windhoek",
+      "activites": [
+        "🚗 <strong>Trajet retour vers Windhoek</strong>: Effectuez le trajet de 4 à 5 heures de Swakopmund à Windhoek, traversant à nouveau des paysages désertiques et semi-désertiques.",
+        "✈️ <strong>Départ de Namibie</strong>: Rendez-vous à l'aéroport international Hosea Kutako pour votre vol de retour, la tête pleine de souvenirs mémorables de la Namibie."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Si le temps le permet, faites un dernier arrêt pour acheter des souvenirs artisanaux à Windhoek."
+        },
+        {
+          "symbole": "🛂",
+          "titre": "Formalités",
+          "texte": "Assurez-vous d'avoir tous vos documents de voyage et votre passeport à portée de main pour le départ."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "2000€/pers (Vol A/R Didier, Haïti - Windhoek avec escales en classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "500€/pers (Location 4x4 pour 6 jours, carburant et assurance, base 2 pers)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "300€/pers (6 jours x 50€/jour pour repas variés, hors boissons alcoolisées)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "625€/pers (5 nuits en hôtels 3 étoiles, base chambre double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "400€/pers (Droits d'entrée parcs, croisière, quad, autres excursions)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de Mai à Octobre, correspondant à la saison sèche.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La Namibie est l'un des pays les moins densément peuplés au monde, avec une grande diversité ethnique et culturelle (Himba, San, Herero, etc.).",
+      "symbole": "👥"
+    },
+    {
+      "titre": "La conduite se fait à gauche. De nombreuses routes sont en gravier, un 4x4 est fortement recommandé pour le confort et la sécurité.",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "Le Dollar Namibien (NAD) est la monnaie locale, indexé sur le Rand Sud-Africain (ZAR). Les cartes de crédit sont acceptées dans les grandes villes.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "La plante Welwitschia Mirabilis, endémique du désert du Namib, peut vivre plus de 1500 ans et n'a que deux feuilles qui poussent continuellement.",
+      "symbole": "🌿"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations de voyage",
+      "titre": "Tourisme Namibie",
+      "url": "https://namibiatourism.com.na/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Prévisions météo détaillées pour la Namibie",
+      "titre": "Météo Namibie",
+      "url": "https://www.accuweather.com/fr/na/namibia-weather",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Location de véhicules 4x4 en Namibie",
+      "titre": "Avis Namibie",
+      "url": "https://www.avis.com.na/",
+      "symbole": "🚙"
+    }
+  ]
+}
